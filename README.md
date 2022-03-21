@@ -39,6 +39,7 @@ customers with all budget ranges go to variod price range restaurants
 ## Interactive map of restaurants and customers
 [Map is here](https://github.com/alilajevardi/Retail/blob/main/assets/place_user_map.html)
 
+![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r11.png)
 
 ## XGB BOOST Model accuracy with demonstrated feature importance:
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r9.png)
@@ -47,5 +48,5 @@ customers with all budget ranges go to variod price range restaurants
 Above graph demonstrates that 'smoking_area' and 'Rambiance' are not highly effective features for salary perdiction. But still, I prefer to keeo it in the dataset. On the other hand engineered feature of 'distance_km' is highly effective.
 
 
-# Derieved insight
-
+## Derieved insight
+The new restaurant shloud be in medium range price that have valet parkeing service. It is recommended that the resturant get located in high compact residential area with higher budget. 
