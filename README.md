@@ -12,21 +12,35 @@
  ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r2.png)
  
  ### Medium price range restaurants get higher rating
+ Demonstrated by below graph and table:
  
  ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r3.png)
  
  ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r4.png)
  
- ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r5.png)
+ 
+ ### Restaurant closer to customer get higher rating
+ ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r5.png) 
  
  ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r6.png)
 
+
+### Customers with higher budget give higher rating
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r7.png)
+
+
+
+### No correlation between customer budget and restaurant price:
+customers with all budget ranges go to variod price range restaurants
 
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r8.png)
 
+
+## Map of Restaurants and Customers
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r9.png)
 
+
+## XGB BOOST Model accuracy:
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r10.png)
 
 
