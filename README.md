@@ -36,12 +36,15 @@ customers with all budget ranges go to variod price range restaurants
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r8.png)
 
 
-## Map of Restaurants and Customers
+## Interactive map of restaurants and customers
+[Map is here](https://github.com/alilajevardi/Retail/blob/main/assets/place_user_map.html)
+
+
+## XGB BOOST Model accuracy with demonstrated feature importance:
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r9.png)
-
-
-## XGB BOOST Model accuracy:
 ![picture](https://github.com/alilajevardi/Retail/blob/main/assets/r10.png)
+
+Above graph demonstrates that 'smoking_area' and 'Rambiance' are not highly effective features for salary perdiction. But still, I prefer to keeo it in the dataset. On the other hand engineered feature of 'distance_km' is highly effective.
 
 
 # Derieved insight
