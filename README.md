@@ -49,4 +49,4 @@ Above graph demonstrates that 'smoking_area' and 'Rambiance' are not highly effe
 
 
 ## Derieved insight
-The new restaurant shloud be in medium range price that have valet parkeing service. It is recommended that the resturant get located in high compact residential area with higher budget. 
+The new restaurant should be in medium range price with valet parking service. It is recommended that the resturant get located in high compact residential area with higher customer budget. 
